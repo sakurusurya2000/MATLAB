@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>18b0948e-3ea7-48cd-a50b-b56a41ce8122</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>ikarosilva/wfdb-app-toolbox</name>
+  <author>Ikaro Silva</author>
+  <version>1.3.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/48049/versions/6/download/zip?src=addons_ml_desktop_install&amp;profile_id=10698557&amp;license=0&amp;release_family=R2017a</downloadUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

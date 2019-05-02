@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e5a6d275-4a80-11e4-9553-005056977bd0</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Short-Time Fourier Transformation (STFT) with Matlab Implementation</name>
+  <author>Hristo Zhivomirov</author>
+  <version>3.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/45197/versions/3/download/zip?src=addons_ml_desktop_install&amp;profile_id=10698557&amp;license=0&amp;release_family=R2017a</downloadUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/45197/versions/3/screenshot.png</previewImageUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
